@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Edson Santos 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvimento web • Sites responsivos • Automações</strong>
+  <strong>Desenvolvimento web • Redes e telecomunicações • Automações</strong>
 </p>
 
 <p align="center">
@@ -12,12 +12,21 @@
 
 ## Sobre mim
 
-Sou desenvolvedor web e crio sites, interfaces e ferramentas para facilitar tarefas do dia a dia. Meus projetos incluem páginas institucionais, portfólios e extensões para o navegador.
+Meu perfil reúne desenvolvimento web, programação e conhecimentos em redes e telecomunicações. Crio sites, interfaces e ferramentas para facilitar tarefas do dia a dia, com projetos que incluem páginas institucionais, portfólios e extensões para o navegador.
 
 - **Desenvolvimento web:** HTML, CSS e JavaScript.
-- **Programação:** Java.
+- **Programação:** Python e Java.
 - **Foco nos projetos:** organização, responsividade e soluções práticas.
 - **Ferramentas de IA:** Claude e Codex como apoio ao desenvolvimento.
+
+## Redes e telecomunicações
+
+| Área | Conhecimentos |
+| --- | --- |
+| **Fibra óptica** | Infraestrutura e fundamentos de redes ópticas. |
+| **TCP/IP** | Fundamentos de comunicação e protocolos TCP/IP. |
+| **Projetista FTTH/FTTx** | Planejamento e elaboração de projetos de redes de fibra óptica. |
+| **NOC** | Operação e monitoramento de redes. |
 
 ## Tecnologias
 
@@ -25,6 +34,7 @@ Sou desenvolvedor web e crio sites, interfaces e ferramentas para facilitar tare
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=181717" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
 </p>
 
